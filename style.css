@@ -1,0 +1,67 @@
+header {
+  background-color: grey;
+  padding: 1%;
+}
+
+nav{
+  color: red;
+  background-color: darkgrey;
+  padding: 1%;
+}
+
+footer {
+  background-color: grey;
+  padding: 1%;
+}
+
+#table1{
+  padding: 1%;
+  border: 5px;
+  border-color: blue;
+}
+
+.rows{
+  height: 50px;
+  border: 3px;
+  border-color: black;
+  padding: 3%;
+}
+
+.imageintable{
+  height: 100px;
+  width: 150px;
+  border: 3px;
+  border-color: black;
+}
+
+#r1-1{
+  background-color: pink;
+}
+
+#r1-2{
+  background-color: lightblue;
+}
+
+#r1-3{
+  background-color: lightgreen;
+}
+
+#r1-4{
+  background-color: brown;
+}
+
+#r3-1{
+  background-color: lightgrey;
+}
+
+#r3-2{
+  background-color: purple;
+}
+
+#r3-3{
+  background-color: orange;
+}
+
+#r3-4{
+  background-color: grey;
+}
